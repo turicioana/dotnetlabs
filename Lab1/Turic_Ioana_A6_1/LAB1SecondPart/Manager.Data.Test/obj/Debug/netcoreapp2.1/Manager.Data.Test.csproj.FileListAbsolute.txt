@@ -1,0 +1,17 @@
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\bin\Debug\netcoreapp2.1\Manager.Data.Test.deps.json
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\bin\Debug\netcoreapp2.1\Manager.Data.Test.runtimeconfig.json
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\bin\Debug\netcoreapp2.1\Manager.Data.Test.runtimeconfig.dev.json
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\bin\Debug\netcoreapp2.1\Manager.Data.Test.dll
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\bin\Debug\netcoreapp2.1\Manager.Data.Test.pdb
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\bin\Debug\netcoreapp2.1\Manager.Data.dll
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\bin\Debug\netcoreapp2.1\Manager.Data.pdb
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\obj\Debug\netcoreapp2.1\Manager.Data.Test.csprojAssemblyReference.cache
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\obj\Debug\netcoreapp2.1\Manager.Data.Test.csproj.CoreCompileInputs.cache
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\obj\Debug\netcoreapp2.1\Manager.Data.Test.AssemblyInfoInputs.cache
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\obj\Debug\netcoreapp2.1\Manager.Data.Test.AssemblyInfo.cs
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\obj\Debug\netcoreapp2.1\Manager.Data.Test.csproj.CopyComplete
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\obj\Debug\netcoreapp2.1\Manager.Data.Test.dll
+C:\Users\ioana.turic\Desktop\LAB1SecondPart\Manager.Data.Test\obj\Debug\netcoreapp2.1\Manager.Data.Test.pdb

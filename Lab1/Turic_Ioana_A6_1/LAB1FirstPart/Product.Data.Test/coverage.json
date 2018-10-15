@@ -1,0 +1,100 @@
+{
+  "C:\\Users\\ioana.turic\\Desktop\\LAB1FirstPart\\Product.Data.Test\\bin\\Debug\\netcoreapp2.1\\Product.Data.dll": {
+    "C:\\Users\\ioana.turic\\Desktop\\LAB1FirstPart\\Product.Data\\Product.cs": {
+      "Product.Data.Product": {
+        "System.Int32 Product.Data.Product::get_Id()": {
+          "Lines": {
+            "7": 1
+          },
+          "Branches": []
+        },
+        "System.String Product.Data.Product::get_Name()": {
+          "Lines": {
+            "8": 1
+          },
+          "Branches": []
+        },
+        "System.String Product.Data.Product::get_Description()": {
+          "Lines": {
+            "9": 1
+          },
+          "Branches": []
+        },
+        "System.DateTime Product.Data.Product::get_StartDate()": {
+          "Lines": {
+            "10": 1
+          },
+          "Branches": []
+        },
+        "System.DateTime Product.Data.Product::get_EndDate()": {
+          "Lines": {
+            "11": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 Product.Data.Product::get_Price()": {
+          "Lines": {
+            "12": 1
+          },
+          "Branches": []
+        },
+        "System.Boolean Product.Data.Product::IsValid(System.DateTime,System.DateTime)": {
+          "Lines": {
+            "16": 3,
+            "17": 3,
+            "18": 2,
+            "19": 2,
+            "21": 1,
+            "22": 3
+          },
+          "Branches": [
+            {
+              "Line": 17,
+              "Offset": 10,
+              "EndOffset": 12,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 17,
+              "Offset": 10,
+              "EndOffset": 17,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Double Product.Data.Product::ComputeVAT(System.Int32)": {
+          "Lines": {
+            "24": 3,
+            "25": 3,
+            "26": 1,
+            "27": 1,
+            "29": 2,
+            "30": 3
+          },
+          "Branches": [
+            {
+              "Line": 25,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 25,
+              "Offset": 8,
+              "EndOffset": 31,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    }
+  }
+}

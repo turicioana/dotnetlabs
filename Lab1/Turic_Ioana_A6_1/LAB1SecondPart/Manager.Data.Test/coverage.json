@@ -1,0 +1,131 @@
+{
+  "C:\\Users\\ioana.turic\\Desktop\\LAB1SecondPart\\Manager.Data.Test\\bin\\Debug\\netcoreapp2.1\\Manager.Data.dll": {
+    "C:\\Users\\ioana.turic\\Desktop\\LAB1SecondPart\\Manager.Data\\Class1.cs": {
+      "Manager.Data.Manager": {
+        "System.Void Manager.Data.Manager::set_Id(System.Int32)": {
+          "Lines": {
+            "7": 1
+          },
+          "Branches": []
+        },
+        "System.Void Manager.Data.Manager::set_FirstName(System.String)": {
+          "Lines": {
+            "8": 1
+          },
+          "Branches": []
+        },
+        "System.Void Manager.Data.Manager::set_LastName(System.String)": {
+          "Lines": {
+            "10": 1
+          },
+          "Branches": []
+        },
+        "System.Void Manager.Data.Manager::set_StartDate(System.DateTime)": {
+          "Lines": {
+            "12": 1
+          },
+          "Branches": []
+        },
+        "System.Void Manager.Data.Manager::set_EndDate(System.DateTime)": {
+          "Lines": {
+            "14": 1
+          },
+          "Branches": []
+        },
+        "System.Double Manager.Data.Manager::get_Salary()": {
+          "Lines": {
+            "16": 1
+          },
+          "Branches": []
+        },
+        "System.String Manager.Data.Manager::GetFullName(System.String,System.String)": {
+          "Lines": {
+            "18": 3,
+            "19": 5,
+            "20": 2,
+            "22": 1,
+            "23": 1
+          },
+          "Branches": [
+            {
+              "Line": 19,
+              "Offset": 2,
+              "EndOffset": 4,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 19,
+              "Offset": 2,
+              "EndOffset": 10,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 19,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 19,
+              "Offset": 13,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Boolean Manager.Data.Manager::IsActive(System.DateTime,System.DateTime)": {
+          "Lines": {
+            "25": 3,
+            "26": 3,
+            "27": 2,
+            "28": 2,
+            "30": 1,
+            "31": 3
+          },
+          "Branches": [
+            {
+              "Line": 26,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 26,
+              "Offset": 12,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 30,
+              "EndOffset": 32,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 26,
+              "Offset": 30,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

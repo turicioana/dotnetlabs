@@ -1,0 +1,392 @@
+{
+  "C:\\Users\\turic\\Desktop\\Lab2Part2\\Product.Data.Test\\bin\\Debug\\netcoreapp2.1\\Product.Data.dll": {
+    "C:\\Users\\turic\\Desktop\\Lab2Part2\\Product.Data\\Class1.cs": {
+      "Product.Data.Product": {
+        "System.Int32 Product.Data.Product::get_Id()": {
+          "Lines": {
+            "7": 53
+          },
+          "Branches": []
+        },
+        "System.String Product.Data.Product::get_Name()": {
+          "Lines": {
+            "8": 57
+          },
+          "Branches": []
+        },
+        "System.String Product.Data.Product::get_Description()": {
+          "Lines": {
+            "9": 53
+          },
+          "Branches": []
+        },
+        "System.DateTime Product.Data.Product::get_StartDate()": {
+          "Lines": {
+            "10": 56
+          },
+          "Branches": []
+        },
+        "System.DateTime Product.Data.Product::get_EndDate()": {
+          "Lines": {
+            "11": 56
+          },
+          "Branches": []
+        },
+        "System.Int32 Product.Data.Product::get_Price()": {
+          "Lines": {
+            "12": 56
+          },
+          "Branches": []
+        },
+        "System.Boolean Product.Data.Product::IsValid(System.DateTime,System.DateTime)": {
+          "Lines": {
+            "26": 3,
+            "27": 3,
+            "28": 2,
+            "29": 2,
+            "31": 1,
+            "32": 3
+          },
+          "Branches": [
+            {
+              "Line": 27,
+              "Offset": 10,
+              "EndOffset": 12,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 27,
+              "Offset": 10,
+              "EndOffset": 17,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Double Product.Data.Product::ComputeVAT(System.Int32)": {
+          "Lines": {
+            "34": 3,
+            "35": 3,
+            "36": 1,
+            "37": 1,
+            "39": 2,
+            "40": 3
+          },
+          "Branches": [
+            {
+              "Line": 35,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 35,
+              "Offset": 8,
+              "EndOffset": 31,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Void Product.Data.Product::.ctor(System.Int32,System.String,System.String,System.DateTime,System.DateTime,System.Int32)": {
+          "Lines": {
+            "15": 52,
+            "16": 52,
+            "17": 52,
+            "18": 52,
+            "19": 52,
+            "20": 52,
+            "21": 52,
+            "22": 52,
+            "23": 52
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\turic\\Desktop\\Lab2Part2\\Product.Data\\ProductRepository.cs": {
+      "Product.Data.ProductRepository": {
+        "System.Int32 Product.Data.ProductRepository::Capacity()": {
+          "Lines": {
+            "19": 2,
+            "20": 2,
+            "21": 2
+          },
+          "Branches": []
+        },
+        "System.Object Product.Data.ProductRepository::GetProductByName(System.String)": {
+          "Lines": {
+            "24": 2,
+            "25": 2,
+            "26": 1,
+            "27": 1,
+            "30": 1,
+            "31": 4,
+            "32": 1,
+            "33": 1,
+            "34": 1,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 1
+          },
+          "Branches": [
+            {
+              "Line": 25,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 25,
+              "Offset": 7,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 31,
+              "Offset": 75,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 33,
+              "Offset": 60,
+              "EndOffset": 62,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 33,
+              "Offset": 60,
+              "EndOffset": 67,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 75,
+              "EndOffset": 77,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Product.Data.ProductRepository::AddProduct(Product.Data.Product)": {
+          "Lines": {
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0
+          },
+          "Branches": [
+            {
+              "Line": 42,
+              "Offset": 2,
+              "EndOffset": 4,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 2,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 42,
+              "Offset": 30,
+              "EndOffset": 32,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 42,
+              "Offset": 30,
+              "EndOffset": 44,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Product.Data.ProductRepository::RemoveProductByName(System.String)": {
+          "Lines": {
+            "53": 1,
+            "54": 1,
+            "55": 1,
+            "56": 1,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0
+          },
+          "Branches": [
+            {
+              "Line": 54,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 54,
+              "Offset": 7,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 85,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 62,
+              "Offset": 60,
+              "EndOffset": 62,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 62,
+              "Offset": 60,
+              "EndOffset": 77,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 85,
+              "EndOffset": 87,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Object Product.Data.ProductRepository::FindAllProducts()": {
+          "Lines": {
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "76": 0,
+            "77": 0
+          },
+          "Branches": [
+            {
+              "Line": 72,
+              "Offset": 36,
+              "EndOffset": 16,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 72,
+              "Offset": 36,
+              "EndOffset": 38,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Object Product.Data.ProductRepository::GetProductByPosition(System.Int32)": {
+          "Lines": {
+            "80": 3,
+            "81": 3,
+            "82": 2,
+            "83": 2,
+            "85": 1,
+            "86": 1
+          },
+          "Branches": [
+            {
+              "Line": 81,
+              "Offset": 3,
+              "EndOffset": 5,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 81,
+              "Offset": 3,
+              "EndOffset": 24,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 81,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 81,
+              "Offset": 27,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void Product.Data.ProductRepository::.ctor()": {
+          "Lines": {
+            "8": 8,
+            "10": 8,
+            "11": 8,
+            "12": 8,
+            "13": 8,
+            "14": 8,
+            "15": 8,
+            "16": 8
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

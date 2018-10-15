@@ -1,0 +1,167 @@
+{
+  "C:\\Users\\turic\\Desktop\\Lab2Part1\\Data.Test\\bin\\Debug\\netcoreapp2.1\\Data.dll": {
+    "C:\\Users\\turic\\Desktop\\Lab2Part1\\Data\\Architect.cs": {
+      "Data.Architect": {
+        "System.String Data.Architect::Salutation(System.String)": {
+          "Lines": {
+            "15": 1,
+            "16": 1,
+            "17": 1
+          },
+          "Branches": []
+        },
+        "System.Void Data.Architect::.ctor(System.Int32,System.Int32,System.String,System.String,System.DateTime,System.DateTime)": {
+          "Lines": {
+            "10": 14,
+            "11": 14,
+            "13": 14
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\turic\\Desktop\\Lab2Part1\\Data\\Employee.cs": {
+      "Data.Employee": {
+        "System.Int32 Data.Employee::get_Id()": {
+          "Lines": {
+            "8": 28
+          },
+          "Branches": []
+        },
+        "System.Int32 Data.Employee::get_Salary()": {
+          "Lines": {
+            "9": 30
+          },
+          "Branches": []
+        },
+        "System.String Data.Employee::get_FirstName()": {
+          "Lines": {
+            "10": 36
+          },
+          "Branches": []
+        },
+        "System.String Data.Employee::get_LastName()": {
+          "Lines": {
+            "11": 36
+          },
+          "Branches": []
+        },
+        "System.DateTime Data.Employee::get_StartDate()": {
+          "Lines": {
+            "12": 36
+          },
+          "Branches": []
+        },
+        "System.DateTime Data.Employee::get_EndDate()": {
+          "Lines": {
+            "13": 36
+          },
+          "Branches": []
+        },
+        "System.String Data.Employee::GetFullName(System.String,System.String)": {
+          "Lines": {
+            "26": 12,
+            "27": 12,
+            "28": 8,
+            "30": 4,
+            "31": 4
+          },
+          "Branches": [
+            {
+              "Line": 27,
+              "Offset": 2,
+              "EndOffset": 4,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 8
+            },
+            {
+              "Line": 27,
+              "Offset": 2,
+              "EndOffset": 10,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 27,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 8
+            },
+            {
+              "Line": 27,
+              "Offset": 13,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            }
+          ]
+        },
+        "System.Boolean Data.Employee::IsActive(System.DateTime,System.DateTime)": {
+          "Lines": {
+            "34": 6,
+            "35": 6,
+            "36": 6,
+            "37": 6
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 36,
+              "Offset": 11,
+              "EndOffset": 16,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Void Data.Employee::.ctor(System.Int32,System.Int32,System.String,System.String,System.DateTime,System.DateTime)": {
+          "Lines": {
+            "15": 28,
+            "16": 28,
+            "17": 28,
+            "18": 28,
+            "19": 28,
+            "20": 28,
+            "21": 28,
+            "22": 28,
+            "23": 28
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\turic\\Desktop\\Lab2Part1\\Data\\Manager.cs": {
+      "Data.Manager": {
+        "System.String Data.Manager::Salutation(System.String)": {
+          "Lines": {
+            "16": 1,
+            "17": 1,
+            "18": 1
+          },
+          "Branches": []
+        },
+        "System.Void Data.Manager::.ctor(System.Int32,System.Int32,System.String,System.String,System.DateTime,System.DateTime)": {
+          "Lines": {
+            "10": 14,
+            "11": 14,
+            "13": 14
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

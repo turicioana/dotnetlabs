@@ -1,0 +1,115 @@
+{
+  "C:\\Users\\ioana.turic\\Desktop\\LAB1SecondPart\\Architect.Data.Test\\bin\\Debug\\netcoreapp2.1\\Architect.Data.dll": {
+    "C:\\Users\\ioana.turic\\Desktop\\LAB1SecondPart\\Architect.Data\\Class1.cs": {
+      "Architect.Data.Architect": {
+        "System.Void Architect.Data.Architect::set_Id(System.Int32)": {
+          "Lines": {
+            "12": 1
+          },
+          "Branches": []
+        },
+        "System.Void Architect.Data.Architect::set_FirstName(System.String)": {
+          "Lines": {
+            "13": 1
+          },
+          "Branches": []
+        },
+        "System.Void Architect.Data.Architect::set_LastName(System.String)": {
+          "Lines": {
+            "15": 1
+          },
+          "Branches": []
+        },
+        "System.Void Architect.Data.Architect::set_StartDate(System.DateTime)": {
+          "Lines": {
+            "17": 1
+          },
+          "Branches": []
+        },
+        "System.Void Architect.Data.Architect::set_EndDate(System.DateTime)": {
+          "Lines": {
+            "19": 1
+          },
+          "Branches": []
+        },
+        "System.Double Architect.Data.Architect::get_Salary()": {
+          "Lines": {
+            "21": 1
+          },
+          "Branches": []
+        },
+        "System.String Architect.Data.Architect::GetFullName(System.String,System.String)": {
+          "Lines": {
+            "23": 3,
+            "24": 5,
+            "25": 2,
+            "27": 1,
+            "28": 1
+          },
+          "Branches": [
+            {
+              "Line": 24,
+              "Offset": 2,
+              "EndOffset": 4,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 24,
+              "Offset": 2,
+              "EndOffset": 10,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 24,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 24,
+              "Offset": 13,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Boolean Architect.Data.Architect::IsActive(System.DateTime,System.DateTime)": {
+          "Lines": {
+            "30": 3,
+            "31": 3,
+            "32": 2,
+            "33": 2,
+            "35": 1,
+            "36": 3
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 10,
+              "EndOffset": 12,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 31,
+              "Offset": 10,
+              "EndOffset": 17,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}
