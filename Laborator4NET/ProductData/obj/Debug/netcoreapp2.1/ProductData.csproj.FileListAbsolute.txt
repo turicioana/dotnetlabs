@@ -1,0 +1,9 @@
+C:\Users\turic\source\repos\Laborator4NET\ProductData\bin\Debug\netcoreapp2.1\ProductData.deps.json
+C:\Users\turic\source\repos\Laborator4NET\ProductData\bin\Debug\netcoreapp2.1\ProductData.dll
+C:\Users\turic\source\repos\Laborator4NET\ProductData\obj\Debug\netcoreapp2.1\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\turic\source\repos\Laborator4NET\ProductData\obj\Debug\netcoreapp2.1\ProductData.AssemblyInfoInputs.cache
+C:\Users\turic\source\repos\Laborator4NET\ProductData\obj\Debug\netcoreapp2.1\ProductData.AssemblyInfo.cs
+C:\Users\turic\source\repos\Laborator4NET\ProductData\bin\Debug\netcoreapp2.1\ProductData.pdb
+C:\Users\turic\source\repos\Laborator4NET\ProductData\obj\Debug\netcoreapp2.1\ProductData.dll
+C:\Users\turic\source\repos\Laborator4NET\ProductData\obj\Debug\netcoreapp2.1\ProductData.pdb
+C:\Users\turic\source\repos\Laborator4NET\ProductData\obj\Debug\netcoreapp2.1\ProductData.csprojAssemblyReference.cache

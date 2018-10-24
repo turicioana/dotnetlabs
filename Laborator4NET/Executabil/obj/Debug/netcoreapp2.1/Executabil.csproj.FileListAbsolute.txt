@@ -1,0 +1,14 @@
+C:\Users\turic\source\repos\Laborator4NET\Executabil\bin\Debug\netcoreapp2.1\Executabil.deps.json
+C:\Users\turic\source\repos\Laborator4NET\Executabil\bin\Debug\netcoreapp2.1\Executabil.runtimeconfig.json
+C:\Users\turic\source\repos\Laborator4NET\Executabil\bin\Debug\netcoreapp2.1\Executabil.runtimeconfig.dev.json
+C:\Users\turic\source\repos\Laborator4NET\Executabil\bin\Debug\netcoreapp2.1\Executabil.dll
+C:\Users\turic\source\repos\Laborator4NET\Executabil\bin\Debug\netcoreapp2.1\Executabil.pdb
+C:\Users\turic\source\repos\Laborator4NET\Executabil\bin\Debug\netcoreapp2.1\ProductData.dll
+C:\Users\turic\source\repos\Laborator4NET\Executabil\bin\Debug\netcoreapp2.1\ProductData.pdb
+C:\Users\turic\source\repos\Laborator4NET\Executabil\obj\Debug\netcoreapp2.1\Executabil.csprojAssemblyReference.cache
+C:\Users\turic\source\repos\Laborator4NET\Executabil\obj\Debug\netcoreapp2.1\Executabil.csproj.CoreCompileInputs.cache
+C:\Users\turic\source\repos\Laborator4NET\Executabil\obj\Debug\netcoreapp2.1\Executabil.AssemblyInfoInputs.cache
+C:\Users\turic\source\repos\Laborator4NET\Executabil\obj\Debug\netcoreapp2.1\Executabil.AssemblyInfo.cs
+C:\Users\turic\source\repos\Laborator4NET\Executabil\obj\Debug\netcoreapp2.1\Executabil.csproj.CopyComplete
+C:\Users\turic\source\repos\Laborator4NET\Executabil\obj\Debug\netcoreapp2.1\Executabil.dll
+C:\Users\turic\source\repos\Laborator4NET\Executabil\obj\Debug\netcoreapp2.1\Executabil.pdb
