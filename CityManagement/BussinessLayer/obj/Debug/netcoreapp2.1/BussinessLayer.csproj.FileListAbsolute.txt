@@ -1,0 +1,12 @@
+C:\Users\turic\source\repos\CityManagement\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.deps.json
+C:\Users\turic\source\repos\CityManagement\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\turic\source\repos\CityManagement\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.pdb
+C:\Users\turic\source\repos\CityManagement\BussinessLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\turic\source\repos\CityManagement\BussinessLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\turic\source\repos\CityManagement\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\turic\source\repos\CityManagement\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\turic\source\repos\CityManagement\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\turic\source\repos\CityManagement\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfo.cs
+C:\Users\turic\source\repos\CityManagement\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CopyComplete
+C:\Users\turic\source\repos\CityManagement\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\turic\source\repos\CityManagement\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.pdb

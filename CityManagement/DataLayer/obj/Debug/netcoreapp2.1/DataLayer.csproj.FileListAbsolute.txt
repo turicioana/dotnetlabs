@@ -1,0 +1,9 @@
+C:\Users\turic\source\repos\CityManagement\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+C:\Users\turic\source\repos\CityManagement\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\turic\source\repos\CityManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\turic\source\repos\CityManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\turic\source\repos\CityManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+C:\Users\turic\source\repos\CityManagement\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\turic\source\repos\CityManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\turic\source\repos\CityManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\turic\source\repos\CityManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csprojAssemblyReference.cache
